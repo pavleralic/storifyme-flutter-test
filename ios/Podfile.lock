@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - StorifyMe (2.2.6)
+  - storifyme_flutter (2.0.0):
+    - Flutter
+    - StorifyMe (= 2.2.6)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - storifyme_flutter (from `.symlinks/plugins/storifyme_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - StorifyMe
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  storifyme_flutter:
+    :path: ".symlinks/plugins/storifyme_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  StorifyMe: 67e5c97bcbb4770314211add52a276cd36a4f14b
+  storifyme_flutter: 5b64750d52fd126fee0f3daf5923641fb447e3c9
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.12.0
